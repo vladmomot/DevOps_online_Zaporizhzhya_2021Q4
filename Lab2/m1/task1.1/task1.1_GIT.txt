@@ -1,0 +1,32 @@
+be72f15 (HEAD -> main, origin/main) HEAD@{0}: commit: Add readme.md to task1
+361b132 HEAD@{1}: commit: add some file
+e57123e HEAD@{2}: pull: Merge made by the 'ort' strategy.
+0b20b50 (origin/develop, develop) HEAD@{3}: merge develop: Fast-forward
+b64121a HEAD@{4}: checkout: moving from develop to main
+0b20b50 (origin/develop, develop) HEAD@{5}: commit: Change index.html
+64ec90f HEAD@{6}: commit: Add image img.png
+994a540 HEAD@{7}: checkout: moving from images to develop
+0c2063c (origin/images, images) HEAD@{8}: checkout: moving from develop to images
+994a540 HEAD@{9}: checkout: moving from images to develop
+0c2063c (origin/images, images) HEAD@{10}: checkout: moving from develop to images
+994a540 HEAD@{11}: commit: Add index.html
+a92093d (origin/styles, styles) HEAD@{12}: merge styles: Fast-forward
+0c2063c (origin/images, images) HEAD@{13}: checkout: moving from develop to develop
+0c2063c (origin/images, images) HEAD@{14}: checkout: moving from styles to develop
+a92093d (origin/styles, styles) HEAD@{15}: commit: Include css in html
+9b28494 HEAD@{16}: commit: Add style.css
+0c2063c (origin/images, images) HEAD@{17}: checkout: moving from develop to styles
+0c2063c (origin/images, images) HEAD@{18}: commit: Change index.html
+330362f HEAD@{19}: commit: Add image img.png
+547e1bc HEAD@{20}: commit: Add index.html
+b64121a HEAD@{21}: checkout: moving from main to develop
+b64121a HEAD@{22}: commit: Add readme.txt
+a836045 HEAD@{23}: Branch: renamed refs/heads/main to refs/heads/main
+a836045 HEAD@{25}: pull: Merge made by the 'ort' strategy.
+1e8890a HEAD@{26}: Branch: renamed refs/heads/main to refs/heads/main
+1e8890a HEAD@{28}: commit: Add readme.txt
+1fee860 HEAD@{29}: commit: Delete readme.txt
+5556b68 HEAD@{30}: commit: first commit
+de1b96f HEAD@{31}: Branch: renamed refs/heads/main to refs/heads/main
+de1b96f HEAD@{33}: Branch: renamed refs/heads/master to refs/heads/main
+de1b96f HEAD@{35}: commit (initial): first commit
